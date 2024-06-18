@@ -58,15 +58,14 @@ To run this project locally, follow these steps:
 https://github.com/ankit3388/InsightIQ_KGOC/assets/106178304/36ca37d3-6c50-4676-8ada-72f356835c84
 
 2. **Install dependencies for backend and frontend**:
-   - For backend
+ - For backend
     ```bash
     cd server
     npm install
-   ```
-    
-  - For backend
+   
+  - For frontend
   ```bash
-    cd server
+    cd client
     npm install
    ```
 
@@ -82,7 +81,7 @@ https://github.com/ankit3388/InsightIQ_KGOC/assets/106178304/36ca37d3-6c50-4676-
     cd server
     npm run dev
    
-5. Run the frontend application:
+5. **Run the frontend application**:
    ```bash
     cd client
     npm run dev 
